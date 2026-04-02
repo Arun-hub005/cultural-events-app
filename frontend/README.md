@@ -1,8 +1,8 @@
-# Cultural Events Booking - Frontend 💻
+# Cultural Events Booking - Frontend 
 
 The React-based frontend for the Cultural Events Booking System.
 
-## ✨ Features
+##  Features
 
 -   **Dynamic Event Catalog**: Browse events with real-time updates.
 -   **Secure Authentication**: Integrated JWT-based login and registration.
@@ -10,7 +10,7 @@ The React-based frontend for the Cultural Events Booking System.
 -   **Admin Panel**: Full CRUD operations for event and user management.
 -   **Responsive UI**: Modern design using Tailwind CSS.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 -   **React 19**: Modern component-based architecture.
 -   **Vite**: Extremely fast build tool and HMR.

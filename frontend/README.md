@@ -39,7 +39,7 @@ npm run dev
 
 The application will be available at [http://localhost:3000](http://localhost:3000).
 
-## 📂 Structure
+## Structure
 
 -   `src/components`: Reusable UI components.
 -   `src/pages`: Main application views.

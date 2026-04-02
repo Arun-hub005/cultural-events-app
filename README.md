@@ -1,12 +1,12 @@
-# Cultural Events Booking System 🎭
+# Cultural Events Booking System 
 
 A full-stack application designed to manage and book cultural events like Dance, Music, and Drama. Built with a modern tech stack focusing on performance, scalability, and ease of use.
 
-## 🚀 Overview
+##  Overview
 
 The **Cultural Events Booking System** allows students and administrators to interact with cultural events. Students can browse events, view details, and book their spots, while administrators have a dedicated dashboard to manage events, users, and bookings.
 
-## ✨ Key Features
+##  Key Features
 
 -   **User Authentication**: Secure Login and Registration with role-based access control (Student/Admin).
 -   **Event Management**: 
@@ -21,7 +21,7 @@ The **Cultural Events Booking System** allows students and administrators to int
     -   User management and role assignments.
 -   **Responsive Design**: A sleek, modern UI built with Tailwind CSS that works on all devices.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 -   **Framework**: [React 19](https://react.dev/)
@@ -39,7 +39,7 @@ The **Cultural Events Booking System** allows students and administrators to int
 -   **Database**: [MySQL](https://www.mysql.com/)
 -   **Authentication**: [JSON Web Tokens (JWT)](https://jwt.io/) & [Bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
 
-## 🏁 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -90,17 +90,11 @@ npm run start
 -   **Frontend**: [http://localhost:3000](http://localhost:3000)
 -   **Backend**: [http://localhost:5000](http://localhost:5000)
 
-## 🔐 Default Admin Credentials
+##  Default Admin Credentials
 
 For testing purposes, a system administrator account is seeded automatically:
 -   **Email**: `admin@admin.com`
 -   **Password**: `admin123`
-
-## 📂 Project Structure
-
--   `backend/`: Express server, Sequelize models, controllers, and routes.
--   `frontend/`: React application, components, hooks, and pages.
--   `package.json`: Root package file with scripts for concurrent execution.
 
 ## 📄 License
 

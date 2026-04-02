@@ -104,4 +104,4 @@ For testing purposes, a system administrator account is seeded automatically:
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
